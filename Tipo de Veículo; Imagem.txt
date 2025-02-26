@@ -1,0 +1,5 @@
+Tipo de Veículo; Imagem	
+Truck; https://drive.google.com/uc?id=1rm0_wRaa5HUvyXoBZvu8Q-7JNx9MO78u
+Carreta; https://drive.google.com/uc?id=1fO2tZLLJSeNJrqoWyPUNku_SIhAJypSv
+Toco; https://drive.google.com/uc?id=19s5D4-FuBbTl9xAQLT7k890UFY0-BzKD
+Vuc; https://drive.google.com/uc?id=1-shBDq8uzlHpWloY8dp3j7DZigBRnu-K
